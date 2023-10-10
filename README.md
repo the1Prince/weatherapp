@@ -1,3 +1,6 @@
+# About this Project
+This is a react weather app for viewing the weather conditions of any country
+[weather app](weather.png)
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
